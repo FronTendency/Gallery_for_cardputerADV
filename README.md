@@ -21,7 +21,11 @@ Turn your M5Stack Cardputer into a lightweight photo viewer.
 ### 1. Prepare your SD Card
 - Create a folder named "Pictures" in the root directory.
 - Copy your images.jpg into this folder.
-
+-Image Requirements:
+    Format: Must be in .jpg extension.
+    Resolution: Optimized for 240 x 135 pixels (16:9 aspect ratio) to match the Cardputer screen.
+    Note: Larger images might work, but they have not been tested yet.
+  
 > Directory Structure Preview:
 ![Folder Structure](пикчур.jpg)
 
@@ -47,4 +51,4 @@ SD Card Root
 ## 🛠 Installation
 1. Download the latest .bin file from the releases page.
 
-2. Flash it to your M5Stack Cardputer using M5Burner or through m5launcher - OTA by searching for Gallery_for_cardputer_ADV.
+2. Flash it to your M5Stack Cardputer using M5Burner or through m5launcher - OTA by searching for Gallery_for_cardputer_ADV - author: @Frontendency
