@@ -20,7 +20,7 @@ Turn your M5Stack Cardputer into a lightweight photo viewer.
 
 ### 1. Prepare your SD Card
 - Create a folder named "Pictures" in the root directory.
-- Copy your images (.jpg, .png) into this folder.
+- Copy your images.jpg into this folder.
 
 > Directory Structure Preview:
 ![Folder Structure](пикчур.jpg)
@@ -28,21 +28,22 @@ Turn your M5Stack Cardputer into a lightweight photo viewer.
 SD Card Root
 └── 📁 Pictures
     ├── photo1.jpg
-    └── photo2.png
+    └── summer2009.jpg
 
 ### 2. Launch the App
 - Insert the SD card into your Cardputer.
 - Open the Gallery app and start viewing!
 
----
-
 ## ⌨️ Controls
-- Arrow Keys / Wheel: Browse through images.
-- Enter / OK: Select / Full screen.
-- Esc / Back: Return to menu.
+
+ <   >   — Next or Previous image
+ [   ]    — Skip 10 images Forward or Backward
+ ʌ   v   — Adjust Display Brightness
+   i     — Show Navigation Help (On-screen info)
 
 ---
 
 ## 🛠 Installation
-1. Download the latest .bin file from the Releases page.
-2. Flash it to your M5Stack Cardputer using M5Burner or ESPAddon.
+1. Download the latest .bin file from the releases page.
+
+2. Flash it to your M5Stack Cardputer using M5Burner or through m5launcher - OTA by searching for Gallery_for_cardputer_ADV.
