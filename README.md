@@ -52,4 +52,4 @@ SD Card Root
 ## 🛠 Installation
 1. Download the latest .bin file from the releases page.
 
-2. Flash it to your M5Stack Cardputer using M5Burner or through m5launcher - OTA by searching for Gallery_for_cardputer_ADV - author: @Frontendency
+2. Flash it to your M5Stack Cardputer using M5Burner or through m5launcher - OTA, by searching for Gallery_for_cardputer_ADV - author: @Frontendency
