@@ -36,12 +36,12 @@ SD Card Root
 - Open the Gallery app and start viewing!
 
 ## ⌨️ Controls
-
+```
  <   >   — Next or Previous image
  [   ]    — Skip 10 images Forward or Backward
  ʌ   v   — Adjust Display Brightness
    i     — Show Navigation Help (On-screen info)
-
+```
 ---
 
 ## 🛠 Installation
