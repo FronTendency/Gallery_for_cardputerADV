@@ -25,11 +25,11 @@ Turn your M5Stack Cardputer into a lightweight photo viewer.
 > Directory Structure Preview:
 ![Folder Structure](пикчур.jpg)
 
+```text
 SD Card Root
-└── 
-📁 Pictures
-├── photo1.jpg
-└── summer2009.jpg
+└── 📁 Pictures
+    ├── photo1.jpg
+    └── summer2009.jpg
 
 ### 2. Launch the App
 - Insert the SD card into your Cardputer.
