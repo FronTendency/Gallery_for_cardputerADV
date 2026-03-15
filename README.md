@@ -57,9 +57,8 @@ SD Card Root
 
 2. Flash it to your M5Stack Cardputer using M5Burner or through m5launcher - OTA, by searching for Gallery_for_cardputer_ADV - author: @Frontendency
 ---
-👨‍💻 Contacts:
-Developer Telegram: @CardpadADV
-
-Github: @FronTendency
+👨‍💻 Contacts:<br>
+Developer Telegram: @CardpadADV<br>
+Github: @FronTendency<br>
 
 Donations:
