@@ -1,5 +1,4 @@
 # 📸 Gallery for M5Stack Cardputer ADV
-
 Turn your M5Stack Cardputer into a lightweight photo viewer.
 
 ---
@@ -61,4 +60,8 @@ SD Card Root
 Developer Telegram: @CardpadADV<br>
 Github: @FronTendency<br>
 
-Donations:
+☕ Support
+
+If you enjoy using this app and would like to support the author, you can do so here. It's never expected, but always appreciated!
+
+Requisites:
