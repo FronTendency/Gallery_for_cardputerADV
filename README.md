@@ -13,7 +13,7 @@ Turn your M5Stack Cardputer into a lightweight photo viewer.
 - SD Card Support: Loads images from a specific folder.
 - Optimized for Cardputer: Tailored for the device's display.
 
----
+
 
 ## 🚀 How to Use
 
@@ -49,13 +49,13 @@ SD Card Root
  ʌ   v   — Adjust Display Brightness
    i     — Show Navigation Help (On-screen info)
 ```
----
+
 
 ## 🛠 Installation
 1. Download the latest .bin file from the releases page.
 
 2. Flash it to your M5Stack Cardputer using M5Burner or through m5launcher - OTA, by searching for Gallery_for_cardputer_ADV - author: @Frontendency
----
+
 👨‍💻 Contacts:<br>
 Developer Telegram: @CardpadADV<br>
 Github: @FronTendency<br>
