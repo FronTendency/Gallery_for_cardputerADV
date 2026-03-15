@@ -60,12 +60,12 @@ SD Card Root
 Developer Telegram: @CardpadADV<br>
 Github: @FronTendency<br>
 
-☕ Support
+##☕Support☕
 
 If you enjoy using this app and would like to support the author, you can do so here. It's never expected, but always appreciated!
 
-Donations:<br>
-Euro €: ```5471 2800 3074 6553```<br>
+**Donations**:<br>
+**Euro €**: ```5471 2800 3074 6553```<br>
 Dollar $: ```4454 3000 0486 3970```<br>
 Ozon Bank: ```2204 3210 6776 2724```<br>
 
