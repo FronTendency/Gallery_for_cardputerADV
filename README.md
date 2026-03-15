@@ -70,7 +70,8 @@ If you enjoy using this app and would like to support the author, you can do so 
 **Ozon Bank**: `2204 3210 6776 2724`<br>
 
 ### Crypto:<br>
-**USDT (TRC20)**: THBaWZtzXBFLypmjoxtERXgVpLJ5fBnbZm <br>
+**USDT (TRC20)**: `THBaWZtzXBFLypmjoxtERXgVpLJ5fBnbZm` <br>
 **Trust Wallet**: https://link.trustwallet.com/send?coin=195&address=THBaWZtzXBFLypmjoxtERXgVpLJ5fBnbZm&token_id=TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t <br>
-**USDT (ERC20)**: 0x1B03AC4310401e7A3026b1539282A4d8F2aeEa87 <br>
+
+**USDT (ERC20)**: `0x1B03AC4310401e7A3026b1539282A4d8F2aeEa87` <br>
 **Trust Wallet**: https://link.trustwallet.com/send?coin=60&address=0x1B03AC4310401e7A3026b1539282A4d8F2aeEa87&token_id=0xdAC17F958D2ee523a2206206994597C13D831ec7 <br>
