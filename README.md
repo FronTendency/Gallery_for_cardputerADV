@@ -36,6 +36,9 @@ SD Card Root
     ├── photo1.jpg
     └── summer2009.jpg
 ```
+> **ℹ️ Test Images:**
+> In the **Releases** section, you can find a `Picture.zip` archive with sample images.
+> Just extract its contents into your `Pictures` folder to quickly test the app.
 ### 2. Launch the App
 - Insert the SD card into your Cardputer.
 - Open the Gallery app and start viewing!
