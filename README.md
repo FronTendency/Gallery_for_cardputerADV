@@ -64,4 +64,8 @@ Github: @FronTendency<br>
 
 If you enjoy using this app and would like to support the author, you can do so here. It's never expected, but always appreciated!
 
-Requisites:
+Donations:<br>
+Euro €: ```5471 2800 3074 6553```<br>
+Dollar $: ```4454 3000 0486 3970```<br>
+Crypto:
+Ozon Bank: ```2204 3210 6776 2724```<br>
