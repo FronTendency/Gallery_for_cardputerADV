@@ -6,7 +6,7 @@ Turn your M5Stack Cardputer into a lightweight photo viewer.
 ## 📺 Demo
 ![Project Demo](compressGIF.gif)
 
----
+
 
 ## ✨ Features
 - Simple Setup: No complex configuration needed.
