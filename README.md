@@ -59,5 +59,7 @@ SD Card Root
 ---
 👨‍💻 Contacts:
 Developer Telegram: @CardpadADV
+
 Github: @FronTendency
+
 Donations:
