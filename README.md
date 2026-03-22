@@ -1,6 +1,6 @@
 # 📸 Gallery for M5Stack Cardputer ADV
 Turn your M5Stack Cardputer into a lightweight photo viewer.
-
+Update! V1.9
 ---
 
 ## 📺 Demo
@@ -13,7 +13,10 @@ Turn your M5Stack Cardputer into a lightweight photo viewer.
 - SD Card Support: Loads images from a specific folder.
 - Optimized for Cardputer: Tailored for the device's display.
 
-
+## 🎉 What's New
+- 🖼️Support for three image formats: jpg, png, bmp.
+- ℹ️Additional file information available by pressing the 'L' key.
+- ⚙️Performance improvements and bug fixes.
 
 ## 🚀 How to Use
 
@@ -22,8 +25,9 @@ Turn your M5Stack Cardputer into a lightweight photo viewer.
 - Copy your images.jpg into this folder.
 ```
 -Image Requirements:
-    Format: Must be in .jpg extension.
-    Resolution: Optimized for 240 x 135 pixels (16:9 aspect ratio) to match the Cardputer screen.
+   Format: Must be in .jpg, .png, or .bmp format.
+    Resolution: Optimized for 240 x 135 pixels (16:9 aspect ratio) to fit the Cardputer screen.
+    File Size: The preferred image size is up to 600 KB.
     Note: Larger images might work, but they have not been tested yet.
 ```
 > Directory Structure Preview:
@@ -45,9 +49,10 @@ SD Card Root
 ## ⌨️ Controls
 ```
  <   >   — Next or Previous image
- [   ]    — Skip 10 images Forward or Backward
+ [   ]   — Skip 10 images Forward or Backward
  ʌ   v   — Adjust Display Brightness
    i     — Show Navigation Help (On-screen info)
+   l     — Show File Informatiom (format,weight,name)
 ```
 
 
