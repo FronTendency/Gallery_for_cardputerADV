@@ -52,7 +52,7 @@ SD Card Root
  [   ]   — Skip 10 images Forward or Backward
  ʌ   v   — Adjust Display Brightness
    i     — Show Navigation Help (On-screen info)
-   l     — Show File Informatiom (format,weight,name)
+   l     — Show File Information (format,weight,name)
 ```
 
 
