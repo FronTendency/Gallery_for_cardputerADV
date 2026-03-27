@@ -1,6 +1,6 @@
 # 📸 Gallery for M5Stack Cardputer ADV
 Turn your M5Stack Cardputer into a lightweight photo viewer.
-Update! V1.9
+Update! V2.0
 ---
 
 ## 📺 Demo
@@ -12,11 +12,15 @@ Update! V1.9
 - Simple Setup: No complex configuration needed.
 - SD Card Support: Loads images from a specific folder.
 - Optimized for Cardputer: Tailored for the device's display.
-
+- Multi-Folder Navigation: Organize your shots into albums.  
 ## 🎉 What's New
-- 🖼️Support for three image formats: jpg, png, bmp.
-- ℹ️Additional file information available by pressing the 'L' key.
-- ⚙️Performance improvements and bug fixes.
+- 📁 Folder Support: You can now create multiple albums inside the /Pictures directory.
+- 🗂️ Folder Selection Menu: Press the - ' -  key to switch between your photo folders.
+- 🖼️ Redesigned UI: All menu panels have been completely overhauled for a cleaner look.
+- 🖼️ Format Support: jpg, png, bmp.
+- ℹ️ File Info: Press L to see format, weight, and filename.
+- ⚙️ Performance improvements and bug fixes.
+  
 
 ## 🚀 How to Use
 
@@ -36,15 +40,19 @@ Update! V1.9
 ```
 SD Card Root
 └── 📁 Pictures
-    ├── photo1.jpg
-    └── summer2009.jpg
+    ├── 📁 Summer_2025
+    │   ├── photo1.jpg
+    │   └── photo2.jpg
+    └── 📁 Wallpapers
+        └── cat.png
 ```
 > **ℹ️ Test Images:**
 > In the **Releases** section, you can find a `Picture.zip` archive with sample images.
-> Just extract its contents into your `/Pictures` folder to quickly test the app.
+> Put your images inside the subfolders, not directly in the root /Pictures folder.
 ### 2. Launch the App
 - Insert the SD card into your Cardputer.
 - Open the Gallery app and start viewing!
+- Use the ' key to select which folder you want to view.
 
 ## ⌨️ Controls
 ```
@@ -53,14 +61,17 @@ SD Card Root
  ʌ   v   — Adjust Display Brightness
    i     — Show Navigation Help (On-screen info)
    l     — Show File Information (format,weight,name)
+   '     - Open Folder Selection Menu
 ```
 
 
 ## 🛠 Installation
 1. Download the latest .bin file from the releases page.
 
-2. Flash it to your M5Stack Cardputer using M5Burner or through m5launcher - OTA, by searching for Gallery_for_cardputer_ADV - author: @Frontendency
-
+2. Flash it via M5Burner or m5launcher (OTA).
+    - Search for: Gallery_for_cardputer_ADV
+    - Author: @Frontendency
+   
 👨‍💻 Contacts:<br>
 Developer Telegram: @CardpadADV<br>
 Github: @FronTendency<br>
