@@ -26,8 +26,7 @@ Update! V2.0
 ## 🚀 How to Use
 
 ### 1. Prepare your SD Card
-- Create a folder named "Pictures" in the root directory.
-- Copy your images.jpg into this folder.
+- The app now supports a nested directory structure. Create a main folder named Pictures, and inside it, create subfolders for your albums.
 ```
 -Image Requirements:
    Format: Must be in .jpg, .png, or .bmp format.
