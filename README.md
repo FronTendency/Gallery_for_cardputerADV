@@ -12,7 +12,8 @@ Update! V2.0
 - Simple Setup: No complex configuration needed.
 - SD Card Support: Loads images from a specific folder.
 - Optimized for Cardputer: Tailored for the device's display.
-- Multi-Folder Navigation: Organize your shots into albums.  
+- Multi-Folder Navigation: Organize your shots into albums.
+  
 ## 🎉 What's New
 - 📁 Folder Support: You can now create multiple albums inside the /Pictures directory.
 - 🗂️ Folder Selection Menu: Press the - ' -  key to switch between your photo folders.
